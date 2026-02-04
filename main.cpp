@@ -2,6 +2,14 @@
 
 int main()
 {
-    std::cout << "Hello World"; //eveyrhting here is ignored
+   std::cout << 5;
+   std::cout << "can you hear me";
+   std::cout << 'H'; //this is just a symbol single qoutes
+   std::cout << 7;
+   std::cout << "SIX SEVEN";
+
+
+
+
     return 0;
 }
